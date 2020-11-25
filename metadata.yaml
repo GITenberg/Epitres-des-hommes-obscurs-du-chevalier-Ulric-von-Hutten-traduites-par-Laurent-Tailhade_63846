@@ -18,12 +18,17 @@ contributor:
     gutenberg_agent_id: '47304'
     url: http://www.gutenberg.org/2009/agents/47304
     wikipedia: https://fr.wikipedia.org/wiki/Laurent_Tailhade
+covers:
+- cover_type: archival
+  image_path: 63846-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutten, Ulrich von
     gutenberg_agent_id: '52634'
     url: http://www.gutenberg.org/2009/agents/52634
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63846#Epitres-des-hommes-obscurs-du-chevalier-Ulric-von-Hutten-traduites-par-Laurent-Tailhade
 gutenberg_issued: '2020-11-22'
 gutenberg_type: Text
 identifiers:
