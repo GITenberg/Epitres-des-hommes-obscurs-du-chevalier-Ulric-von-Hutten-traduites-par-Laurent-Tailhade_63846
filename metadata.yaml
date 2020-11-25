@@ -1,0 +1,39 @@
+_repo: Epitres-des-hommes-obscurs-du-chevalier-Ulric-von-Hutten-traduites-par-Laurent-Tailhade_63846
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tailhade, Laurent
+    aliases:
+    - Tybalt
+    - Cachetero, El
+    - Junipérien, Dom
+    - Patte-Pelue
+    - Juniperien, Dom
+    - Renzi
+    - Azède
+    - Azede
+    - Lorenzaccio
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '47304'
+    url: http://www.gutenberg.org/2009/agents/47304
+    wikipedia: https://fr.wikipedia.org/wiki/Laurent_Tailhade
+creator:
+  author:
+    agent_name: Hutten, Ulrich von
+    gutenberg_agent_id: '52634'
+    url: http://www.gutenberg.org/2009/agents/52634
+description: ''
+gutenberg_issued: '2020-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63846'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Epitres des hommes obscurs du chevalier Ulric von Hutten traduites par Laurent
+  Tailhade
+url: http://www.gutenberg.org/ebooks/63846
